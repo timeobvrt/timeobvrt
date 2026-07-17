@@ -1,36 +1,49 @@
-### ✌️ Hi! I'm a 16 year old homeschooler and coder!
+# 👋 Hi, I'm Timéo Bavart
 
-When I'm not doing school or working on a project, I enjoy flying drones and making videos on my YouTube channel, [**_`A Wanderer's Archives`_**](https://youtube.com/@wanderer.archives).
+> 🇫🇷 French developer • 17 years old • Developer
 
-#### 👷 The latest repos i've pushed to
-{{range recentContributions 8}}
-- [`{{.Repo.Name}}`]({{.Repo.URL}}) - _"{{.Repo.Description}}"_ **({{humanize .OccurredAt}})**
-{{- end}}
+I'm passionate about software development and enjoy building useful projects while learning new technologies.
 
-#### ⌨️ My latest projects
-{{range recentCreatedRepos "taciturnaxolotl" 4}}
-- [`{{.Name}}`]({{.URL}}) - _"{{.Description}}"_
-{{- end}}
+---
 
-#### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
-{{range rss "https://dunkirk.sh/rss.xml" 3}}
-- [`{{.Title}}`]({{.URL}}) **({{humanize .PublishedAt}})**
+## 🚀 What I'm working on
+
+{{range recentCreatedRepos "YOUR_USERNAME" 4}}
+- **[{{.Name}}]({{.URL}})** — {{.Description}}
 {{end}}
 
+---
 
-#### 📡 my [_`hackatime`_](https://waka.hackclub.com) stats from the last week
+## 📌 Recently updated
+
+{{range recentContributions 8}}
+- **[{{.Repo.Name}}]({{.Repo.URL}})** — {{.Repo.Description}} *(updated {{humanize .OccurredAt}})*
+{{- end}}
+
+---
+
+## 📊 Coding activity
 
 ```text
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+{{ wakatimeDoubleCategoryBar "💻 Languages" wakatimeData.Languages "📁 Projects" wakatimeData.Projects 5 }}
 
 Total: {{ wakatimeData.HumanReadableTotal }}
 ```
 
-#### 📮 Want to Contact me?
+---
 
-```text
-Email: me@dunkirk.sh
-Slack: @krn (hackclub.com/slack)
-```
+## 🛠️ Tech Stack
 
-_readme auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
+- Languages: JavaScript, TypeScript, Java, Rust
+- Frontend: React, Next.js
+- Backend: Node.js, Express
+- Databases: MariaDB, MySQL, MongoDB
+- Tools: Git, Docker, Linux
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/timeobvrt
+- Email: contact@axeno.me
+- Discord: axenooff
