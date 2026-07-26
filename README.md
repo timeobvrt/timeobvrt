@@ -22,12 +22,10 @@ I'm passionate about software development and enjoy building useful projects whi
 
 ```text
 💻 Languages
-unknown   6m 17s   █████████████████████████  100.00%
 
 📁 Projects
-axeno     6m 17s   █████████████████████████  100.00%
 
-Total: 0 hrs 6 mins
+Total: 0 hrs 0 mins
 ```
 
 ---
