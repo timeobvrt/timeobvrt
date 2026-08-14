@@ -22,18 +22,17 @@ I'm passionate about software development and enjoy building useful projects whi
 
 ```text
 💻 Languages
-Java              1h 49m 2s    ██████████░░░░░░░░░░░░░░░  36.59%
-Java              1h 21m 27s   ███████░░░░░░░░░░░░░░░░░░  27.34%
-Java Properties   31m 5s       ███░░░░░░░░░░░░░░░░░░░░░░  10.43%
-Properties        29m 7s       ███░░░░░░░░░░░░░░░░░░░░░░  9.77%
-Shell             28m 16s      ███░░░░░░░░░░░░░░░░░░░░░░  9.49%
+Java              23m 2s    ██████████░░░░░░░░░░░░░░░  36.03%
+Java              16m 15s   ███████░░░░░░░░░░░░░░░░░░  25.42%
+Java Properties   11m 10s   █████░░░░░░░░░░░░░░░░░░░░  17.47%
+Shell             8m 0s     ████░░░░░░░░░░░░░░░░░░░░░  12.51%
+Properties        5m 29s    ███░░░░░░░░░░░░░░░░░░░░░░  8.58%
 
 📁 Projects
-OMCPlugin         2h 7m 24s    ███████████████████░░░░░░  73.88%
-serveur           28m 16s      █████░░░░░░░░░░░░░░░░░░░░  16.39%
-Toor              16m 47s      ███░░░░░░░░░░░░░░░░░░░░░░  9.73%
+OMCPlugin         33m 1s    █████████████████████░░░░  80.50%
+serveur           8m 0s     █████░░░░░░░░░░░░░░░░░░░░  19.50%
 
-Total: 2 hrs 16 mins
+Total: 0 hrs 33 mins
 ```
 
 ---
