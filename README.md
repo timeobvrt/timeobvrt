@@ -17,7 +17,7 @@ I'm passionate about software development and enjoy building useful projects whi
 ## 📌 Recently updated
 
 
-- **[CraftHub](https://github.com/timeobvrt/CraftHub)** —  *(updated 5 days ago)*
+- **[CraftHub](https://github.com/timeobvrt/CraftHub)** —  *(updated 6 days ago)*
 
 ---
 
@@ -25,20 +25,20 @@ I'm passionate about software development and enjoy building useful projects whi
 
 ```text
 💻 Languages
-unknown                           7h 7m 34s    █████████░░░░░░░░░░░░░░░░  33.19%
-C                                 4h 46m 48s   ██████░░░░░░░░░░░░░░░░░░░  22.26%
-PHP                               3h 2m 35s    ████░░░░░░░░░░░░░░░░░░░░░  14.17%
-Blade                             2h 15m 36s   ███░░░░░░░░░░░░░░░░░░░░░░  10.52%
-Shell                             2h 6m 7s     ███░░░░░░░░░░░░░░░░░░░░░░  9.79%
+unknown                           7h 5m 58s    ██████████░░░░░░░░░░░░░░░  39.16%
+C                                 4h 46m 48s   ███████░░░░░░░░░░░░░░░░░░  26.36%
+Shell                             2h 4m 5s     ███░░░░░░░░░░░░░░░░░░░░░░  11.41%
+Groovy                            50m 46s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.67%
+Java                              50m 12s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.61%
 
 📁 Projects
-CraftHub                          3h 24m 49s   ██████░░░░░░░░░░░░░░░░░░░  20.52%
-G-CPE-100-LIL-1-1-cpoolday03-41   2h 45m 16s   █████░░░░░░░░░░░░░░░░░░░░  16.56%
-G-CPE-100-LIL-1-1-cpoolday05-42   1h 55m 48s   ███░░░░░░░░░░░░░░░░░░░░░░  11.60%
-G-CPE-100-LIL-1-1-cpoolday02-41   1h 44m 35s   ███░░░░░░░░░░░░░░░░░░░░░░  10.48%
-G-CPE-100-LIL-1-1-rush1-2         1h 39m 18s   ███░░░░░░░░░░░░░░░░░░░░░░  9.95%
+G-CPE-100-LIL-1-1-cpoolday03-41   2h 45m 16s   █████░░░░░░░░░░░░░░░░░░░░  18.62%
+G-CPE-100-LIL-1-1-cpoolday05-42   1h 55m 48s   ████░░░░░░░░░░░░░░░░░░░░░  13.04%
+OMCPlugin                         1h 47m 17s   ████░░░░░░░░░░░░░░░░░░░░░  12.08%
+G-CPE-100-LIL-1-1-cpoolday02-41   1h 44m 35s   ███░░░░░░░░░░░░░░░░░░░░░░  11.78%
+G-CPE-100-LIL-1-1-rush1-2         1h 39m 18s   ███░░░░░░░░░░░░░░░░░░░░░░  11.18%
 
-Total: 16 hrs 38 mins
+Total: 14 hrs 49 mins
 ```
 
 ---
