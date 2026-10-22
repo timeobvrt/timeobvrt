@@ -17,7 +17,7 @@ I'm passionate about software development and enjoy building useful projects whi
 ## 📌 Recently updated
 
 
-- **[CraftHub](https://github.com/timeobvrt/CraftHub)** —  *(updated 4 weeks ago)*
+- **[CraftHub](https://github.com/timeobvrt/CraftHub)** —  *(updated 1 month ago)*
 
 ---
 
@@ -25,20 +25,20 @@ I'm passionate about software development and enjoy building useful projects whi
 
 ```text
 💻 Languages
-unknown                        11h 4m 4s    ███████████████████░░░░░░  75.79%
-Rust                           2h 20m 40s   █████░░░░░░░░░░░░░░░░░░░░  16.05%
-Java                           19m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.23%
-Shell                          14m 12s      █░░░░░░░░░░░░░░░░░░░░░░░░  1.62%
-Java                           12m 3s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.38%
+unknown                        10h 47m 49s   ████████████████████░░░░░  79.14%
+Rust                           2h 20m 40s    █████░░░░░░░░░░░░░░░░░░░░  17.18%
+TOML                           10m 45s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.31%
+Shell                          10m 12s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.25%
+JSON                           8m 27s        █░░░░░░░░░░░░░░░░░░░░░░░░  1.03%
 
 📁 Projects
-G-CPE-101-LIL-1-1-myprintf-8   9h 12m 32s   █████████████████░░░░░░░░  64.56%
-Yoki                           4h 15m 1s    ████████░░░░░░░░░░░░░░░░░  29.80%
-OMCPlugin                      20m 31s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.40%
-timeobvrt                      13m 4s       █░░░░░░░░░░░░░░░░░░░░░░░░  1.53%
-Piscine                        4m 0s        █░░░░░░░░░░░░░░░░░░░░░░░░  0.47%
+G-CPE-101-LIL-1-1-myprintf-8   9h 11m 13s    █████████████████░░░░░░░░  67.50%
+Yoki                           3h 57m 35s    ████████░░░░░░░░░░░░░░░░░  29.09%
+timeobvrt                      25m 51s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.17%
+Piscine                        2m 0s         █░░░░░░░░░░░░░░░░░░░░░░░░  0.24%
+Perso                          1s            ░░░░░░░░░░░░░░░░░░░░░░░░░  0.00%
 
-Total: 13 hrs 49 mins
+Total: 13 hrs 10 mins
 ```
 
 ---
