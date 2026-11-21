@@ -17,7 +17,7 @@ I'm passionate about software development and enjoy building useful projects whi
 ## 📌 Recently updated
 
 
-- **[CraftHub](https://github.com/timeobvrt/CraftHub)** —  *(updated 1 month ago)*
+- **[CraftHub](https://github.com/timeobvrt/CraftHub)** —  *(updated 2 months ago)*
 
 ---
 
@@ -25,20 +25,20 @@ I'm passionate about software development and enjoy building useful projects whi
 
 ```text
 💻 Languages
-unknown                          4h 52m 34s   █████████████████░░░░░░░░  66.59%
-Java                             43m 15s      ███░░░░░░░░░░░░░░░░░░░░░░  9.84%
-Java                             36m 45s      ███░░░░░░░░░░░░░░░░░░░░░░  8.36%
-Java Properties                  23m 8s       ██░░░░░░░░░░░░░░░░░░░░░░░  5.27%
-Shell                            15m 14s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.47%
+unknown                        5h 1m 25s    ████████████░░░░░░░░░░░░░  45.64%
+Java                           2h 24m 33s   ██████░░░░░░░░░░░░░░░░░░░  21.89%
+Java                           2h 4m 47s    █████░░░░░░░░░░░░░░░░░░░░  18.90%
+Java Properties                25m 9s       █░░░░░░░░░░░░░░░░░░░░░░░░  3.81%
+Shell                          15m 14s      █░░░░░░░░░░░░░░░░░░░░░░░░  2.31%
 
 📁 Projects
-OMCPlugin                        2h 24m 30s   █████████░░░░░░░░░░░░░░░░  35.69%
-G-PSU-100-LIL-1-1-mysudo-18      1h 5m 33s    █████░░░░░░░░░░░░░░░░░░░░  16.19%
-G-MUL-100-LIL-1-1-myhunter-7     48m 6s       ███░░░░░░░░░░░░░░░░░░░░░░  11.88%
-G-CPE-110-LIL-1-1-settingup-28   39m 30s      ███░░░░░░░░░░░░░░░░░░░░░░  9.76%
-timeobvrt                        36m 39s      ███░░░░░░░░░░░░░░░░░░░░░░  9.05%
+OMCPlugin                      4h 10m 1s    ████████████░░░░░░░░░░░░░  47.59%
+G-MUL-100-LIL-1-1-myhunter-7   1h 30m 32s   █████░░░░░░░░░░░░░░░░░░░░  17.23%
+G-PSU-100-LIL-1-1-mysudo-18    1h 5m 33s    ████░░░░░░░░░░░░░░░░░░░░░  12.48%
+timeobvrt                      38m 41s      ██░░░░░░░░░░░░░░░░░░░░░░░  7.36%
+portfolio                      15m 57s      █░░░░░░░░░░░░░░░░░░░░░░░░  3.04%
 
-Total: 6 hrs 16 mins
+Total: 8 hrs 13 mins
 ```
 
 ---
