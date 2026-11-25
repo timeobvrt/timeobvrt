@@ -25,20 +25,20 @@ I'm passionate about software development and enjoy building useful projects whi
 
 ```text
 💻 Languages
-unknown                        5h 44m 6s    ████████░░░░░░░░░░░░░░░░░  28.26%
-Java                           4h 57m 7s    ███████░░░░░░░░░░░░░░░░░░  24.40%
-Java                           3h 58m 10s   █████░░░░░░░░░░░░░░░░░░░░  19.56%
-TypeScript                     2h 24m 2s    ███░░░░░░░░░░░░░░░░░░░░░░  11.83%
-Java Properties                56m 56s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.68%
+unknown                        5h 36m 40s   ████████░░░░░░░░░░░░░░░░░  28.10%
+Java                           4h 55m 7s    ███████░░░░░░░░░░░░░░░░░░  24.63%
+Java                           3h 55m 24s   █████░░░░░░░░░░░░░░░░░░░░  19.65%
+TypeScript                     2h 24m 2s    ████░░░░░░░░░░░░░░░░░░░░░  12.02%
+Java Properties                54m 54s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.58%
 
 📁 Projects
-OMCPlugin                      6h 44m 27s   ████████████░░░░░░░░░░░░░  44.84%
-portfolio                      2h 59m 41s   █████░░░░░░░░░░░░░░░░░░░░  19.92%
-G-MUL-100-LIL-1-1-myhunter-7   1h 28m 18s   ███░░░░░░░░░░░░░░░░░░░░░░  9.79%
-G-PSU-100-LIL-1-1-mysudo-18    1h 5m 33s    ██░░░░░░░░░░░░░░░░░░░░░░░  7.27%
-G-MUL-100-LIL-1-1-myradar-1    44m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.93%
+OMCPlugin                      6h 34m 15s   ████████████░░░░░░░░░░░░░  44.06%
+portfolio                      2h 59m 41s   ██████░░░░░░░░░░░░░░░░░░░  20.08%
+G-MUL-100-LIL-1-1-myhunter-7   1h 30m 45s   ███░░░░░░░░░░░░░░░░░░░░░░  10.14%
+G-PSU-100-LIL-1-1-mysudo-18    1h 11m 18s   ██░░░░░░░░░░░░░░░░░░░░░░░  7.97%
+G-MUL-100-LIL-1-1-myradar-1    44m 29s      ██░░░░░░░░░░░░░░░░░░░░░░░  4.97%
 
-Total: 14 hrs 3 mins
+Total: 13 hrs 52 mins
 ```
 
 ---
